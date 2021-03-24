@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(44, 197, 121);
+}
+h1{
+    text-align: center;
+    font-family: Verdana;
+}
+h2{
+    font-family: courier;
+}
+
+address{
+    text-align: center;
+}
+
+img{
+    width: 250px; 
+    height: 380px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul.a{
+    list-style-type: square;
+}
+
+ul.b{
+    list-style-type: square;
+}
